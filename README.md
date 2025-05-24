@@ -54,6 +54,8 @@ This Python-based program allows you to recursively crawl a given website and do
 * Select URL, choose file types, and start/stop crawling with buttons.
 * See real-time status and progress in the window.
 
+![Dashboard English](screenshots/dashboard_EN-us.png)
+
 ### 🛠️ Open Source and Modifiable
 
 * You can clone the repository and modify the script as needed.
