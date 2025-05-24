@@ -100,7 +100,7 @@ pip install -r requirements.txt
 #### ▶️ Run the Program
 
 ```bash
-python main.py
+python main.py --gui
 ```
 
 > Adjust the filename if your entry point differs.
